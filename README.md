@@ -62,13 +62,13 @@ SistemaClinica.java
 
 uml/
 
-diagrama-classes.svg
+umlprojetopoo2.pdf
 
 ```
 
-## UML
+## Diagrama UML
 
-Diagrama de classes em imagem SVG: `uml/diagrama-classes.svg`.
+Diagrama de classes em arquivo PDF: `uml/umlprojetopoo2.pdf`.
 
 ## Decisões de modelagem
 
